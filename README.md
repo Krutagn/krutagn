@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+🔭 I’m currently working on<br>Building and leading enterprise iOS applications at TCS, focusing on performance optimization, secure authentication (SSO, biometrics), and real-time features. Currently contributing to internal products like SmartSales Opportunities and Connections, used across multiple business teams.<br><br>👯 I’m looking to collaborate on<br>iOS app development (Swift, SwiftUI, UIKit)<br>Enterprise & B2B mobile solutions<br>Apps involving real-time data, Firebase, offline sync, and performance optimization<br>Agile teams that value clean architecture, scalability, and strong UX<br><br>🤝 I’m looking for help with<br>Exploring advanced SwiftUI + Combine patterns for large-scale apps<br>Keeping up with latest iOS platform updates and best practices<br>Improving app scalability and maintainability in enterprise environments<br><br>🌱 I’m currently learning<br>Advanced SwiftUI & Combine<br>Reactive programming patterns for complex user flows<br>Improving technical leadership & agile delivery as a Technical Manager<br><br>💬 Ask me about<br>iOS development with Swift, UIKit, SwiftUI<br>Firebase integration (Auth, Realtime DB, Analytics)<br>App publishing, certificates, and App Store deployment<br>Agile / Scrum practices and team leadership<br>Optimizing app performance and UX<br><br>⚡ Fun fact<br>I’ve worked on apps used by thousands of users across enterprise and consumer platforms, and I still enjoy debugging performance issues as much as playing cricket and table tennis 🏏🏓
 
-<!--
-**Krutagn/krutagn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im_krutagn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Krutagn Patel) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/Krutagn Patel) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krutagnpatel95@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Krutagn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Krutagn&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krutagn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Krutagn&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
